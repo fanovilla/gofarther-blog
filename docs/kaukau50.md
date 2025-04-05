@@ -1,5 +1,9 @@
 # Mount Kaukau 50 at 50
 
+## #13 of 50 - April 5, 2025
+
+<div class="strava-embed-placeholder" data-embed-type="activity" data-embed-id="14083329168" data-style="standard" data-from-embed="false"></div><script src="https://strava-embeds.com/embed.js"></script>
+
 ## #3 of 50 - November 3, 2024
 
 Lovely walk up with Liam. Started at Truscott Ave, then up the Northern Walkway. Instead of going straight up to the
